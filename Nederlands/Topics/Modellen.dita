@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">Modellen</title>
+        <shortdesc>Werken met modellen helpt om de manier van werken te analyseren.</shortdesc><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog><body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6">
+            <image href="../../Figures/ModelGoal.jpg" id="image_qzn_dkq_kbb"/>
+            <p>In een ideale <i><b>efficiente</b></i> organisatie die <b><i>effective</i></b>
+                informatie levert aan gebruikers zul je de deze modellen herkennen:</p>
+            <table frame="all" rowsep="1" colsep="1" id="table_nnn_hkq_kbb">
+                <title/>
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1"/>
+                    <colspec colname="c2" colnum="2"/>
+                    <colspec colname="c3" colnum="3"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>Organisatie</p>
+                            </entry>
+                            <entry>
+                                <p>Proces</p>
+                            </entry>
+                            <entry>
+                                <p>Informatie</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p><i>Hoe</i></p>
+                                <p><b>Organisatie volwassenheid</b><ul id="ul_ynm_rkq_kbb">
+                                        <li>
+                                            <p>Marketing</p>
+                                        </li>
+                                        <li>
+                                            <p>Produktie/levering</p>
+                                        </li>
+                                        <li>
+                                            <p>Ontwikkeling</p>
+                                        </li>
+                                        <li>
+                                            <p>Onderhoud</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                            <entry morerows="1">
+                                <p><i>Volgens plan</i></p>
+                                <p><b>Kwaliteits controle</b><ul id="ul_gpc_vkq_kbb">
+                                        <li>
+                                            <p>Standaard</p>
+                                        </li>
+                                        <li>
+                                            <p>Meting</p>
+                                        </li>
+                                        <li>
+                                            <p>Feedback</p>
+                                        </li>
+                                        <li>
+                                            <p>Rapportage</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                            <entry>
+                                <p><i>Wat</i></p>
+                                <p><b>Content strategie</b><ul id="ul_nj2_ykq_kbb">
+                                        <li>
+                                            <p>Onderwerpen</p>
+                                        </li>
+                                        <li>
+                                            <p>Groeperen</p>
+                                        </li>
+                                        <li>
+                                            <p>Creatie</p>
+                                        </li>
+                                        <li>
+                                            <p>Publicatie</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p><i>De juiste aanpak</i></p>
+                                <p><b>Gebruiker centraal volwassenheidsmodel</b>:<ul
+                                        id="ul_ztq_dlq_kbb">
+                                        <li>
+                                            <p>Management</p>
+                                        </li>
+                                        <li>
+                                            <p>Skills</p>
+                                        </li>
+                                        <li>
+                                            <p>UXmethodes</p>
+                                        </li>
+                                        <li>
+                                            <p>Middelen</p>
+                                        </li>
+                                        <li>
+                                            <p>Gebruiker impact</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                            <entry>
+                                <p><i>Levering</i></p>
+                                <p><b>Informatie impact</b><ul id="ul_mxj_klq_kbb">
+                                        <li>
+                                            <p>Schrijfstijl</p>
+                                        </li>
+                                        <li>
+                                            <p>Tekenstijl</p>
+                                        </li>
+                                        <li>
+                                            <p>Paginalayout</p>
+                                        </li>
+                                        <li>
+                                            <p>Terminologie</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </body></topic></dita>

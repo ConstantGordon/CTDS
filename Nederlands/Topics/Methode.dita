@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">Methode</title>
+        <shortdesc><ph id="Shortdesc">Iedere workshop en advies traject zal worden aangepast om te
+                passen op de specifieke eigenschappen van de omgeving en wensen zodat een optimale
+                oplossing aangeboden wordt.</ph></shortdesc><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog><body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6">
+            <table frame="all" id="id-12e37740-f4c8-4c6f-af52-82e235525daa">
+                <tgroup cols="3" id="id-e3034da9-061e-4087-859c-8366496e5499">
+                    <colspec colname="column-0" colnum="1" colwidth="1*" colsep="1" rowsep="1"
+                        id="id-ced695b7-1f30-4a88-b0b7-417c53adacd9"/>
+                    <colspec colname="column-1" colnum="2" colwidth="2*" colsep="1" rowsep="1"
+                        id="id-b9ae78ac-7ca8-4137-af8f-f45049334eab"/>
+                    <colspec colname="column-2" colnum="3" colwidth="2*" colsep="1" rowsep="1"
+                        id="id-627e1443-1916-42f5-c14a-09aa5ada04af"/>
+                    <thead id="id-65cb2715-6d37-4135-dc3b-2ff56fc81e87">
+                        <row id="id-26abdd64-1fc6-4207-fef7-f318429cf5db">
+                            <entry id="id-487f6598-78c5-4c14-ee8e-a8fae3f2a757">
+                                <p id="id-12b8f89b-c738-415f-cf61-d307d7c930c7">Fase</p>
+                            </entry>
+                            <entry id="id-2d115276-fb52-4664-e8c1-c34ccccbb0ec">
+                                <p id="id-c3e10331-c182-4d60-d9c8-51c775b50640">Workshop</p>
+                            </entry>
+                            <entry id="id-fe7afbf9-07be-4ba1-8802-aa6df290e18b">
+                                <p id="id-daaada79-39f2-4575-d214-826fb07763c1">Advies traject</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody id="id-ba446778-a711-477b-fff8-d858811c6f76">
+                        <row id="id-622da3bb-722a-4d60-d79b-b41250be5cfc">
+                            <entry colname="column-0" rowsep="1" colsep="1"
+                                id="id-7239e197-3742-45d3-abf1-1e4e31505093">
+                                <p id="id-a15c3f1e-e3e4-46fc-e509-4908990ed455">Analyse</p>
+                            </entry>
+                            <entry colname="column-1" rowsep="1" colsep="1"
+                                id="id-c012140c-8f6c-42fc-ede0-ed2d1d7fce5b" namest="column-1"
+                                nameend="column-2">
+                                <p id="id-b5c74fd3-fc91-4e90-a1c6-01690c869644">Vaststellen van
+                                    huidige werkwijze, doelstellingen, ambitie en beperkingen</p>
+                            </entry>
+                        </row>
+                        <row id="id-3081f1c0-7cea-40c6-de8a-fc7edbcaa6a2">
+                            <entry colname="column-0" rowsep="1" colsep="1"
+                                id="id-c684a765-1850-4870-ad8c-3f8c498786b1" morerows="1">
+                                <p id="id-9b0672e5-8487-4f32-c945-140a67856098">Planning</p>
+                            </entry>
+                            <entry colname="column-1" rowsep="1" colsep="1"
+                                id="id-5249c32d-4b0e-49cb-94fa-982ed6a7978d" namest="column-1"
+                                nameend="column-2">
+                                <p id="id-686164f7-68fc-47e8-aecd-02339cd490b3">Doelen, ambitie en
+                                    beperkingen op elkaar afstemmen</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry colname="column-1" rowsep="1" colsep="1">
+                                <p>Verbeter trajecten bespreekbaar maken. Workshop voorbereiden</p>
+                            </entry>
+                            <entry colname="column-2" rowsep="1" colsep="1">
+                                <p id="id-530c1963-800f-425b-bc92-0be8d83bb88a">Verbeter trajecten
+                                    en alternatieven voorstellen en keuzes maken.</p>
+                            </entry>
+                        </row>
+                        <row id="id-706ec7d7-3fb2-4707-8064-a6fd1113dd42">
+                            <entry colname="column-0" rowsep="1" colsep="1"
+                                id="id-1efdabf0-49e1-4c44-9518-bd3ccdab95c7">
+                                <p id="id-0f0feaab-eed9-4517-956f-f1f069667628">Executie</p>
+                            </entry>
+                            <entry colname="column-1" rowsep="1" colsep="1"
+                                id="id-018845f6-fe75-4a3b-9bbb-25dccf19bc6a">
+                                <p id="id-3fd8b089-0a3c-4d4e-a0c0-b156dc620110">Het houden van de
+                                    workshop</p>
+                            </entry>
+                            <entry colname="column-2" rowsep="1" colsep="1"
+                                id="id-1a3b09ef-ef0a-45e3-e4e5-45a8526fc0dc">
+                                <p id="id-9ce54df5-2ab9-46c2-9bec-ead1147201ff">Implementeren van de
+                                    verbeter trajecten, met hulp van workshops en coaching.</p>
+                                <p id="id-7acdf67d-470c-474c-96f2-d0227c9fbef8">Afhankelijk van de
+                                    specifieke situatie is interim management een optie.</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </body></topic></dita>
