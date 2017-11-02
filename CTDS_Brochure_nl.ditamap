@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
@@ -22,3 +23,29 @@
   <topicref href="Nederlands/Topics/Ervaring.dita"/>
  </topicref>
 </map>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Brochure</title>
+ <topicref href="Nederlands/Topics/Opening_nl.dita"/>
+ <topicref href="Nederlands/Topics/Trainings_nl.dita">
+  <topicref href="Nederlands/Topics/ContentStrategy_nl.dita"/>
+  <topicref href="Nederlands/Topics/Styleguide_nl.dita"/>
+  <topicref href="Nederlands/Topics/QualityManagement_nl.dita"/>
+  <topicref href="Nederlands/Topics/Terminology_nl.dita"/>
+  <topicref href="Nederlands/Topics/ContentCreation_nl.dita"/>
+ </topicref>
+ <topicref href="Nederlands/Topics/Methode.dita">
+  <topicref href="Nederlands/Topics/Modellen.dita"/>
+  <topicref href="Nederlands/Topics/De%20aanpak.dita"/>
+ </topicref>
+ <topicref href="Nederlands/Topics/Constant%20Gordon_ervaring.dita">
+  <topicref href="Nederlands/Topics/Constant%20Gordon_achtergrond.dita"/>
+  <topicref href="Nederlands/Topics/Mission,%20vision%20%26%20values.dita"/>
+ </topicref>
+ <topicref href="Nederlands/Topics/Appendix.dita">
+  <topicref href="Nederlands/Topics/Ervaring.dita"/>
+ </topicref>
+</map>
+>>>>>>> 439749bc2541cc05cf90dcffef51e42a1c48231d
