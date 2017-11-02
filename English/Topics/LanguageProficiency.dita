@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">Language proficiency</title><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog>
         <body>
             <p>In general, proficiency level B1 is the best proficiency target for technical
@@ -139,3 +140,146 @@
                 </tgroup>
             </table>
         </body></topic></dita>
+=======
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">Language proficiency</title><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog>
+        <body>
+            <p>In general, proficiency level B1 is the best proficiency target for technical
+                    documentation.<ul id="ul_scp_3dl_2bb">
+                    <li>
+                        <p>Some of the intended readers may have a different mother tongue in which
+                            case B1 is the most likely proficience level.</p>
+                    </li>
+                    <li>
+                        <p>Readers with proficiency levels up to C2 indicate that the readability is
+                            better which results in faster reading.</p>
+                    </li>
+                </ul></p>
+            <table id="table_rlr_qcl_2bb">
+                <title>Language proficiency grouping</title>
+                <tgroup cols="5">
+                    <colspec colnum="1" colname="col1" colwidth="5%"/>
+                    <colspec colnum="2" colname="col2" colwidth="15%"/>
+                    <colspec colnum="3" colname="col3" colwidth="5%"/>
+                    <colspec colnum="4" colname="col4" colwidth="15%"/>
+                    <colspec colnum="5" colname="col5" colwidth="60%"/>
+                    <thead><row>
+                            <entry>Level group</entry>
+                            <entry>Level group name</entry>
+                            <entry>Level</entry>
+                            <entry>Level name</entry>
+                            <entry>Description</entry>
+                        </row></thead><tbody>
+                        
+                        <row>
+                            <entry morerows="1">A</entry>
+                            <entry morerows="1">Basic user</entry>
+                            <entry>A1</entry>
+                            <entry>Breakthrough or beginner</entry>
+                            <entry>
+                                <ul id="ul_slr_qcl_2bb">
+                                    <li>Can understand and use familiar everyday expressions and
+                                        very basic phrases aimed at the satisfaction of needs of a
+                                        concrete type.</li>
+                                    <li>Can introduce themselves and others and can ask and answer
+                                        questions about personal details such as where he/she lives,
+                                        people they know and things they have.</li>
+                                    <li>Can interact in a simple way provided the other person talks
+                                        slowly and clearly and is prepared to help.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>A2</entry>
+                            <entry>Waystage or elementary</entry>
+                            <entry>
+                                <ul id="ul_tlr_qcl_2bb">
+                                    <li>Can understand sentences and frequently used expressions
+                                        related to areas of most immediate relevance (e.g. very
+                                        basic personal and family information, shopping, local
+                                        geography, employment).</li>
+                                    <li>Can communicate in simple and routine tasks requiring a
+                                        simple and direct exchange of information on familiar and
+                                        routine matters.</li>
+                                    <li>Can describe in simple terms aspects of their background,
+                                        immediate environment and matters in areas of immediate
+                                        need.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry morerows="1">B</entry>
+                            <entry morerows="1">Independent user</entry>
+                            <entry>B1</entry>
+                            <entry>Threshold or intermediate</entry>
+                            <entry>
+                                <ul id="ul_ulr_qcl_2bb">
+                                    <li>Can understand the main points of clear standard input on
+                                        familiar matters regularly encountered in work, school,
+                                        leisure, etc.</li>
+                                    <li>Can deal with most situations likely to arise while
+                                        travelling in an area where the language is spoken.</li>
+                                    <li>Can produce simple connected text on topics that are
+                                        familiar or of personal interest.</li>
+                                    <li>Can describe experiences and events, dreams, hopes and
+                                        ambitions and briefly give reasons and explanations for
+                                        opinions and plans.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>B2</entry>
+                            <entry>Vantage or upper intermediate</entry>
+                            <entry>
+                                <ul id="ul_vlr_qcl_2bb">
+                                    <li>Can understand the main ideas of complex text on both
+                                        concrete and abstract topics, including technical
+                                        discussions in their field of specialization.</li>
+                                    <li>Can interact with a degree of fluency and spontaneity that
+                                        makes regular interaction with native speakers quite
+                                        possible without strain for either party.</li>
+                                    <li>Can produce clear, detailed text on a wide range of subjects
+                                        and explain a viewpoint on a topical issue giving the
+                                        advantages and disadvantages of various options.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry morerows="1">C</entry>
+                            <entry morerows="1">Proficient user</entry>
+                            <entry>C1</entry>
+                            <entry>Effective operational proficiency or advanced</entry>
+                            <entry>
+                                <ul id="ul_wlr_qcl_2bb">
+                                    <li>Can understand a wide range of demanding, longer clauses,
+                                        and recognize implicit meaning.</li>
+                                    <li>Can express ideas fluently and spontaneously without much
+                                        obvious searching for expressions.</li>
+                                    <li>Can use language flexibly and effectively for social,
+                                        academic and professional purposes.</li>
+                                    <li>Can produce clear, well-structured, detailed text on complex
+                                        subjects, showing controlled use of organizational patterns,
+                                        connectors and cohesive devices.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>C2</entry>
+                            <entry>Mastery or proficiency</entry>
+                            <entry>
+                                <ul id="ul_xlr_qcl_2bb">
+                                    <li>Can understand with ease virtually everything heard or
+                                        read.</li>
+                                    <li>Can summarize information from different spoken and written
+                                        sources, reconstructing arguments and accounts in a coherent
+                                        presentation.</li>
+                                    <li>Can express themselves spontaneously, very fluently and
+                                        precisely, differentiating finer shades of meaning even in
+                                        the most complex situations.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </body></topic></dita>
+>>>>>>> 6a46723c8bcca6feaf8c49f39a710c61163040c1

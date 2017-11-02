@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="Title"><ph
                 conref="../../Definities/Definities.dita#id-3786c374-0865-4172-a0bb-85279efbe5d1/id-208f039a-5db3-43fc-eb31-f00cb04cb2f2"
             />, the name explained</title><prolog id="id-77325f2b-ccd0-4f6c-e142-42aa47efd829"><author id="id-947b9ed5-d943-4b13-a3fc-6bfe46aabb23">constant.gordon@gmail.com</author><critdates id="id-04b9e739-c549-46e1-dcc2-7def6c46ad25"><created date="2017-04-24" id="id-8952c0af-5310-44c0-8d8a-e6857cdf8345" /><revised modified="2017-04-24" id="id-48f98d1d-8748-44fd-cf59-b15578a4e60a" /></critdates><permissions view="" id="id-28024512-8e37-4151-e386-b75fa7f521b7" /><metadata id="id-e46d06a2-4944-4618-be5d-0e7bf7db8040"><category id="id-ed79b90d-711c-4c6b-e88c-61690a237184">Information Object</category></metadata></prolog><body id="id-20468ae8-4581-438c-e050-de195a6ebac6">
@@ -28,4 +29,36 @@
             </ul>
             <p id="id-ee0bfc91-e816-43a2-c56f-54b5b3df05fe">The circel surrounding the I and !
                 stress information. The arrows indicate a continuous dynamic process.</p>
+=======
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="Title"><ph
+                conref="../../Definities/Definities.dita#id-3786c374-0865-4172-a0bb-85279efbe5d1/id-208f039a-5db3-43fc-eb31-f00cb04cb2f2"
+            />, the name explained</title><prolog id="id-77325f2b-ccd0-4f6c-e142-42aa47efd829"><author id="id-947b9ed5-d943-4b13-a3fc-6bfe46aabb23">constant.gordon@gmail.com</author><critdates id="id-04b9e739-c549-46e1-dcc2-7def6c46ad25"><created date="2017-04-24" id="id-8952c0af-5310-44c0-8d8a-e6857cdf8345" /><revised modified="2017-04-24" id="id-48f98d1d-8748-44fd-cf59-b15578a4e60a" /></critdates><permissions view="" id="id-28024512-8e37-4151-e386-b75fa7f521b7" /><metadata id="id-e46d06a2-4944-4618-be5d-0e7bf7db8040"><category id="id-ed79b90d-711c-4c6b-e88c-61690a237184">Information Object</category></metadata></prolog><body id="id-20468ae8-4581-438c-e050-de195a6ebac6">
+            <image href="../../Figures/Capdoi_Logo.jpg" id="image_b2m_gcf_21b"/>
+            <p id="id-c7f3533a-3776-4d62-c9d4-a480c8104925">The name is an acronym for <ph
+                    conref="../../Definities/Definities.dita#id-2b0a7507-2127-4937-9276-ef9fecce07ef/id-b29b68dd-5dac-451b-ee96-03b6927c3379"
+                /></p>
+            <p>In some languages <ph
+                    conref="../../Definities/Definities.dita#id-3786c374-0865-4172-a0bb-85279efbe5d1/id-208f039a-5db3-43fc-eb31-f00cb04cb2f2"
+                /> has a meaning that matches the vision of <ph
+                    conref="../../Definities/Definities.dita#id-3786c374-0865-4172-a0bb-85279efbe5d1/id-208f039a-5db3-43fc-eb31-f00cb04cb2f2"
+                />:</p>
+            <ul id="ul_icl_ngp_rz">
+                <li id="id-0b6fad13-7bf0-4517-a378-31211712222c">
+                    <p id="id-f79536e4-e9fa-46f7-ab8b-783995cbd500">Romanian: cap doi, chapter 2</p>
+                    <p id="id-f7296dc5-2479-4692-a50a-f7b002879b29">This fits very well with the
+                        technical documentation and information processes. Chapter 1 for each
+                        company is to make and sell products. Chapter 2 are the secondairy processes
+                        that support the main goal. Information and documentation processes are such
+                        secondary processes.</p>
+                </li>
+                <li id="id-f50b3361-81c7-4064-c699-d44b67d21225">
+                    <p id="id-f3b1cbe5-7c2f-412f-a391-a2258768dd9d">Vietnamese: cap doi, couple</p>
+                    <p id="id-5d5d7743-94f6-46e1-97f2-9f1efcc89805">Good documentation requires
+                        collaboration between at least 2 parties. The subject matter expert and the
+                        language magician who converts tech-talk into comprehensive language.</p>
+                </li>
+            </ul>
+            <p id="id-ee0bfc91-e816-43a2-c56f-54b5b3df05fe">The circel surrounding the I and !
+                stress information. The arrows indicate a continuous dynamic process.</p>
+>>>>>>> 6a46723c8bcca6feaf8c49f39a710c61163040c1
         </body></topic></dita>

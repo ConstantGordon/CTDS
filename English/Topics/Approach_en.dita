@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">The technical documentation process</title><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog><body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6">
             <p id="id-9c01550a-060c-4eb3-c30a-6fb6af3cf49b">Documentation creation and maintenance
                 can be seen as a mini production company within your company and has all elements of
@@ -91,3 +92,98 @@
             <p id="id-ca069278-62c8-4e3e-cbd6-66ef99f5894c">For each element of this documentation
                 production "company" multiple solutions are possible.</p>
         </body></topic></dita>
+=======
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">The technical documentation process</title><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog><body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6">
+            <p id="id-9c01550a-060c-4eb3-c30a-6fb6af3cf49b">Documentation creation and maintenance
+                can be seen as a mini production company within your company and has all elements of
+                a regular production company.</p>
+            <image href="../../Figures/TheFactory.jpg" id="image_rj5_x1f_21b"/>
+            <table frame="all" rowsep="1" colsep="1" id="table_wbw_2tt_h1b">
+                <title>The technical documentation company</title>
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>Marketing and sales</p>
+                            </entry>
+                            <entry>
+                                <p>Production</p>
+                            </entry>
+                            <entry>
+                                <p>Development / maintenance</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <ul id="ul_ztx_gtt_h1b">
+                                    <li>
+                                        <p>Contact with the "real" sales and marketing to align
+                                            requirements for</p>
+                                        <ul id="ul_a5x_gtt_h1b">
+                                            <li>
+                                                <p>Presentation</p>
+                                            </li>
+                                            <li>
+                                                <p>Information objects</p>
+                                            </li>
+                                            <li>
+                                                <p>Quality and standardisation requirements</p>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <p>Contact with the lawyers to meet the appropriate legal
+                                            requirements</p>
+                                    </li>
+                                    <li>
+                                        <p>Contact with the projects within the company, capacity
+                                            alignment</p>
+                                    </li>
+                                </ul>
+                            </entry>
+                            <entry>
+                                <ul id="ul_kgh_htt_h1b">
+                                    <li>
+                                        <p>Shop floor control or project management. Possibly
+                                            translation management</p>
+                                    </li>
+                                    <li>
+                                        <p><b>Text creation</b></p>
+                                        <p>Converting tech talk to information</p>
+                                    </li>
+                                    <li>
+                                        <p><b>Illustrations</b></p>
+                                        <p>A picture is worth 1000 words</p>
+                                    </li>
+                                    <li>
+                                        <p><b>Quality</b> control and terminology managements</p>
+                                    </li>
+                                </ul>
+                            </entry>
+                            <entry>
+                                <ul id="ul_fgq_htt_h1b">
+                                    <li>
+                                        <p><b>Technology</b></p>
+                                        <p>A balanced choice between tools and processes with the
+                                            required means and guidelines.</p>
+                                    </li>
+                                    <li>
+                                        <p><b>Craftsmanship</b></p>
+                                        <p>How to maintain the craftsmanship during illness,
+                                            replacements, transfers of staff.</p>
+                                    </li>
+                                </ul>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p id="id-ca069278-62c8-4e3e-cbd6-66ef99f5894c">For each element of this documentation
+                production "company" multiple solutions are possible.</p>
+        </body></topic></dita>
+>>>>>>> 6a46723c8bcca6feaf8c49f39a710c61163040c1

@@ -2,29 +2,29 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Brochure</title>
- <topicref href="Topics/Opening.dita"/>
- <topicref href="Topics/Trainings.dita">
-  <topicref href="Topics/ContentStrategy.dita"/>
-  <topicref href="Topics/Styleguide.dita"/>
-  <topicref href="Topics/QualityManagement.dita"/>
-  <topicref href="Topics/Terminology.dita"/>
-  <topicref href="Topics/ContentCreation.dita"/>
-  <topicref href="Topics/AdvOrganization.dita"/>
-  <topicref href="Topics/AdvTechnology.dita"/>
+ <topicref href="English/Topics/Opening.dita"/>
+ <topicref href="English/Topics/Trainings.dita">
+  <topicref href="English/Topics/ContentStrategy.dita"/>
+  <topicref href="English/Topics/Styleguide.dita"/>
+  <topicref href="English/Topics/QualityManagement.dita"/>
+  <topicref href="English/Topics/Terminology.dita"/>
+  <topicref href="English/Topics/ContentCreation.dita"/>
+  <topicref href="English/Topics/AdvOrganization.dita"/>
+  <topicref href="English/Topics/AdvTechnology.dita"/>
  </topicref>
- <topicref href="Topics/Background.dita">
-  <topicref href="Topics/Modellen.dita"/>
+ <topicref href="English/Topics/Background.dita">
+  <topicref href="English/Topics/Modellen.dita"/>
  </topicref>
- <topicref href="Topics/Copy/ConstantGordon_en.dita">
-  <topicref href="Topics/Copy/CG_Processes.dita">
-   <topicref href="Topics/Copy/CG_GettingReady.dita"/>
+ <topicref href="English/Topics/ConstantGordon_en.dita">
+  <topicref href="English/Topics/CG_Processes.dita">
+   <topicref href="English/Topics/CG_GettingReady.dita"/>
   </topicref>
-  <topicref href="Topics/Copy/VisionMission_en.dita"/>
+  <topicref href="English/Topics/VisionMission_en.dita"/>
  </topicref>
- <topicref href="Topics/Copy/Appendix.dita">
-  <topicref href="Topics/Copy/Approach_en.dita"/>
-  <topicref href="Topics/InformationProductsDevelopmentCompetencesModel.dita"/>
-  <topicref href="Topics/LanguageProficiency.dita"/>
-  <topicref href="Topics/Copy/Experience_en.dita"/>
+ <topicref href="English/Topics/Appendix.dita">
+  <topicref href="English/Topics/Approach_en.dita"/>
+  <topicref href="English/Topics/InformationProductsDevelopmentCompetencesModel.dita"/>
+  <topicref href="English/Topics/LanguageProficiency.dita"/>
+  <topicref href="English/Topics/Experience_en.dita"/>
  </topicref>
 </map>

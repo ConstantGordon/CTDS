@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">Working with models</title>
         <shortdesc>Working with models helps to analyse the way of working.</shortdesc><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog>
         <body>
@@ -124,3 +125,131 @@
                 </tgroup>
             </table>
         </body></topic></dita>
+=======
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">Working with models</title>
+        <shortdesc>Working with models helps to analyse the way of working.</shortdesc><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog>
+        <body>
+            <image href="../../Figures/ModelGoal.jpg" id="image_bvd_bkq_kbb"/>
+            <p>In the ideal <b><i>efficient</i></b> organization delivering <b><i>effective</i></b>
+                content to the users you will recognize these models:</p>
+            <table id="table_z5x_3yr_2bb">
+                <tgroup cols="3">
+                    <colspec colname="c2" colnum="1" colsep="1" rowsep="1"/>
+                    <colspec colname="c3" colnum="2" colsep="1" rowsep="1"/>
+                    <colspec colname="newCol4" colnum="3" colwidth="1*" colsep="1" rowsep="1"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>Organization</p>
+                            </entry>
+                            <entry>
+                                <p>Process</p>
+                            </entry>
+                            <entry>
+                                <p>Content</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p><i>Know how to do what you need to do.</i></p>
+                                <p id="organization_maturity">Organization maturity model <ul
+                                        id="ul_ol4_bcj_dbb">
+                                        <li>
+                                            <p>Marketing, know what you need to do.</p>
+                                        </li>
+                                        <li>
+                                            <p>Production / delivery, make sure the work is
+                                                done.</p>
+                                        </li>
+                                        <li>
+                                            <p>Development, know how to do it.</p>
+                                        </li>
+                                        <li>
+                                            <p>Maintenance, make sure it works.</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                            <entry morerows="1">
+                                <p><i>Ensure you deliver as planned.</i></p>
+                                <p id="QualityControl">Quality control model<ul id="ul_lkf_ggj_dbb">
+                                        <li>
+                                            <p>Quality standard</p>
+                                        </li>
+                                        <li>
+                                            <p>Measurement</p>
+                                        </li>
+                                        <li>
+                                            <p>Feedback</p>
+                                        </li>
+                                        <li>
+                                            <p>Reporting</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                            <entry>
+                                <p><i>Know what you have to do.</i></p>
+                                <p id="ContentStrategy">Content strategy model<ul
+                                        id="ul_xq4_n2s_2bb">
+                                        <li>
+                                            <p>Content topics (customers needs)</p>
+                                        </li>
+                                        <li>
+                                            <p>Information grouping / navigation / document
+                                                types</p>
+                                        </li>
+                                        <li>
+                                            <p>Content creation processes / sources</p>
+                                        </li>
+                                        <li>
+                                            <p>Publication / content delivery channels</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p><i>Have the right approach.</i></p>
+                                <p>User centric maturity model (Dutch government: Gebruiker centraal
+                                        volwassenheidsmodel)<ul id="ul_ogh_hdj_dbb">
+                                        <li>
+                                            <p>Management</p>
+                                        </li>
+                                        <li>
+                                            <p>Knowledge / skills</p>
+                                        </li>
+                                        <li>
+                                            <p>UX Methodes</p>
+                                        </li>
+                                        <li>
+                                            <p>Means</p>
+                                        </li>
+                                        <li>
+                                            <p>User impact</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                            <entry>
+                                <p><i>Know what your product is.</i></p>
+                                <p id="Content_impact">Content impact model <ul id="ul_r2w_5bj_dbb">
+                                        <li>
+                                            <p>Writing style, including language proficiency</p>
+                                        </li>
+                                        <li>
+                                            <p>Image style </p>
+                                        </li>
+                                        <li>
+                                            <p>Page layout </p>
+                                        </li>
+                                        <li>
+                                            <p>Terminology </p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </body></topic></dita>
+>>>>>>> 6a46723c8bcca6feaf8c49f39a710c61163040c1
