@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Constant\Documents\ConstantsTechDocSupport\Content\English\temp\topic-pdf\English\Topics\Copy?><?workdir-uri file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/temp/topic-pdf/English/Topics/Copy/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Composite//EN?><?doctype-system ditabase.dtd?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3"><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="topic:1;1:172"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385" class="- topic/title " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="title:1;1:224">The technical documentation organization
+            maturity model, a company within a company</title><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a" class="- topic/prolog " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="prolog:1;2:116"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d" class="- topic/author " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="author:1;2:169">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3" class="- topic/critdates " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="critdates:1;2:259"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" class="- topic/created " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="created:1;2:333"/><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" class="- topic/revised " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="revised:1;2:411"/></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" class="- topic/permissions " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="permissions:1;2:491"/><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3" class="- topic/metadata " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="metadata:1;2:546"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4" class="- topic/category " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="category:1;2:601">Information Object</category></metadata></prolog><body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6" class="- topic/body " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="body:1;2:701">
+            <p id="id-9c01550a-060c-4eb3-c30a-6fb6af3cf49b" class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:1;3:61">Documentation creation and maintenance
+                can be seen as a mini production company within your company and has all elements of
+                a regular production company. Next to the product flow from input material to sales
+                ready product there is an information stream that makes sure the end result is
+                according to specifications.</p>
+            <image href="../../../Figures/TheFactoryFull.jpg" id="image_rj5_x1f_21b" placement="inline" class="- topic/image " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="image:1;8:87"/>
+            <table frame="all" rowsep="1" colsep="1" id="table_wbw_2tt_h1b" class="- topic/table " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="table:1;9:77">
+                <title class="- topic/title " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="title:2;10:24">The different areas of attention of the technical documentation (mini)
+                    company within the company</title>
+                <tgroup cols="3" class="- topic/tgroup " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="tgroup:1;12:34">
+                    <colspec colname="c1" colnum="1" colwidth="1.0*" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="colspec:1;13:71"/>
+                    <colspec colname="newCol4" colnum="2" colwidth="1*" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="colspec:2;14:74"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="1*" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="colspec:3;15:74"/>
+                    <thead class="- topic/thead " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="thead:1;16:28">
+                        <row class="- topic/row " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="row:1;17:30">
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="entry:1;18:36">
+                                <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:2;19:36">Marketing and sales</p>
+                            </entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="entry:2;21:36">
+                                <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:3;22:36">Development / maintenance</p>
+                            </entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="entry:3;24:36">
+                                <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:4;25:36">Production / delivery</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="tbody:1;29:28">
+                        <row class="- topic/row " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="row:2;30:30">
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="entry:4;31:36">
+                                <ul id="ul_ztx_gtt_h1b" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="ul:1;32:57">
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:1;33:41">
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:5;34:44">Contact with the "real" sales and marketing to align
+                                            requirements for</p>
+                                        <ul id="ul_a5x_gtt_h1b" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="ul:2;36:65">
+                                            <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:2;37:49">
+                                                <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:6;38:52">Presentation</p>
+                                            </li>
+                                            <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:3;40:49">
+                                                <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:7;41:52">Information objects</p>
+                                            </li>
+                                            <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:4;43:49">
+                                                <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:8;44:52">Quality and standardisation requirements</p>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:5;48:41">
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:9;49:44">Contact with the lawyers to meet the appropriate legal
+                                            requirements</p>
+                                    </li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:6;52:41">
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:10;53:44">Contact with the projects within the company, capacity
+                                            alignment</p>
+                                    </li>
+                                </ul>
+                            </entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="entry:5;58:36">
+                                <ul id="ul_fgq_htt_h1b" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="ul:3;59:57">
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:7;60:41">
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:11;61:44"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="b:1;61:47">Technology</b></p>
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:12;62:44">A balanced choice between tools and processes with the
+                                            required means and guidelines.</p>
+                                    </li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:8;65:41">
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:13;66:44"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="b:2;66:47">Craftsmanship</b></p>
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:14;67:44">How to maintain the craftsmanship during illness,
+                                            replacements, transfers of staff.</p>
+                                    </li>
+                                </ul>
+                            </entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="entry:6;72:36">
+                                <ul id="ul_kgh_htt_h1b" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="ul:4;73:57">
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:9;74:41">
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:15;75:44"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="b:3;75:47">Shop floor control </b>or project management. Possibly
+                                            translation management</p>
+                                    </li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:10;78:41">
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:16;79:44"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="b:4;79:47">Text creation</b></p>
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:17;80:44">Converting tech talk and data to information</p>
+                                    </li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:11;82:41">
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:18;83:44"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="b:5;83:47">Illustrations</b></p>
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:19;84:44">A picture is worth 1000 words</p>
+                                    </li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="li:12;86:41">
+                                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:20;87:44"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="b:6;87:47">Quality</b> control and terminology managements</p>
+                                    </li>
+                                </ul>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p id="id-ca069278-62c8-4e3e-cbd6-66ef99f5894c" class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/ConstantsTechDocSupport/Content/English/Topics/Copy/Approach_en.dita" xtrc="p:21;95:61">For each element of this documentation
+                production "company" multiple solutions are possible. The marketing and development
+                area's are the most important sources for the goal of effective and efficient
+                documentation.</p>
+        </body></topic></dita>

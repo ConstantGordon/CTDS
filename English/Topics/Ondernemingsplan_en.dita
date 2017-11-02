@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+<topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4">
+	<title>Ondernemings plan volgens de kamer van koophandel</title>
+  <prolog>
+  	<author>constant.gordon@gmail.com</author>
+  	<critdates>
+  		<created date="2017-01-09"/>
+  		<revised modified="2017-01-09"/>
+  	</critdates>
+  	<permissions view=""/>
+    <metadata>
+      <category>Information Object</category>
+    </metadata>       
+  </prolog>
+  <body>
+      <p>
+        <ul id="ul_sgr_m4g_2z">
+          <li><p>Het idee. Een concrete beschrijving van uw
+            idee.</p></li>
+          <li><p><xref href="Financieel.dita#topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4">Financiën</xref>. Hoeveel
+              geld heeft u nodig en waar haalt u dat vandaan?</p></li>
+          <li><p>Organisatie van het bedrijf. Hoe regelt u de
+              administratie en verzekeringen?</p></li>
+          <li><p>Marktonderzoek. Wie zijn uw <xref
+                href="MarketingPlan.dita#topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4/TargetMarkets"
+                >klanten</xref> en <xref
+                href="MarketingPlan.dita#topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4/Concurrenten"
+                >concurrenten</xref>?</p></li>
+          <li><p>Uitwerking van het bedrijfsidee. Beschrijf concreet hoe
+              u uw idee gaat uitvoeren.</p></li>
+          <li><p>Persoonlijke gegevens en informatie over uw
+              ondernemersvaardigheden</p>
+            <p/></li>
+        </ul>
+      </p>
+    </body>
+</topic>
+</dita>
