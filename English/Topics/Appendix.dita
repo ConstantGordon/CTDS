@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4">
+        <title id="Title">Appendix</title>
+        <prolog id="id-1c00e3f4-f540-4c49-f5cb-a0b2c44b974e">
+            <author id="id-e512ff67-79f0-4b73-cb42-b552b825ee5b">constant.gordon@gmail.com</author>
+            <critdates id="id-9e89f184-38d2-427d-f6d3-29fd8ced81a3">
+                <created date="2017-04-24" id="id-92dd09c2-d289-4f84-f281-bf72cbba613a"/>
+                <revised modified="2017-04-24" id="id-0437e9ad-d5d3-4369-b12c-ea9e30d112fb"/>
+            </critdates>
+            <permissions view="" id="id-33384d1d-193e-4008-845d-c199382e54a4"/>
+            <metadata id="id-3a0e02ed-da2b-471e-bd67-b9ad2220315d">
+                <category id="id-19d62d26-fe68-44b3-e4bc-f818690dd6f8">Information Object</category>
+            </metadata>
+        </prolog>
+    </topic>
+</dita>

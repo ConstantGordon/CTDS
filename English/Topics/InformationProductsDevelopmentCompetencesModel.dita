@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">Competences for development of information
+            products model</title><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog>
+        <body>
+            <p>Tekom competence framework, Stuttgart November 9 2016.</p>
+            <table id="table_z5x_3yr_2bb">
+                <tgroup cols="7">
+                    <colspec colname="c2" colnum="1" colsep="1" rowsep="1"/>
+                    <colspec colname="c3" colnum="2" colsep="1" rowsep="1"/>
+                    <colspec colname="newCol4" colnum="3" colwidth="1*" colsep="1" rowsep="1"/>
+                    <colspec colname="newCol5" colnum="4" colwidth="1*" colsep="1" rowsep="1"/>
+                    <colspec colname="newCol6" colnum="5" colwidth="1*" colsep="1" rowsep="1"/>
+                    <colspec colname="newCol7" colnum="6" colwidth="1*" colsep="1" rowsep="1"/>
+                    <colspec colname="newCol8" colnum="7" colwidth="1*" colsep="1" rowsep="1"/>
+                    <thead>
+                        <row>
+                            <entry>
+                                <p>Context analysis</p>
+                            </entry>
+                            <entry>
+                                <p>Planning</p>
+                            </entry>
+                            <entry>
+                                <p>Concept development</p>
+                            </entry>
+                            <entry>
+                                <p>Information creation</p>
+                            </entry>
+                            <entry>
+                                <p>Media production</p>
+                            </entry>
+                            <entry>
+                                <p>Publication and distribution</p>
+                            </entry>
+                            <entry>
+                                <p>Observation</p>
+                            </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                                <p>Legal requirements</p>
+                            </entry>
+                            <entry>
+                                <p>Product life cycle support</p>
+                            </entry>
+                            <entry>
+                                <p>Information products</p>
+                            </entry>
+                            <entry>
+                                <p>Information source</p>
+                            </entry>
+                            <entry>
+                                <p>Print media</p>
+                            </entry>
+                            <entry>
+                                <p>Printing</p>
+                            </entry>
+                            <entry>
+                                <p>User feedback</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Normative requirements</p>
+                            </entry>
+                            <entry>
+                                <p>Information creation planning</p>
+                            </entry>
+                            <entry>
+                                <p>Information architecture</p>
+                            </entry>
+                            <entry>
+                                <p>Acquisition and selection of information</p>
+                            </entry>
+                            <entry>
+                                <p>Electronic media</p>
+                            </entry>
+                            <entry>
+                                <p>Delivery of electronic media</p>
+                            </entry>
+                            <entry>
+                                <p>Evaluation</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Target groups</p>
+                            </entry>
+                            <entry>
+                                <p>Project management</p>
+                            </entry>
+                            <entry>
+                                <p>Access</p>
+                            </entry>
+                            <entry>
+                                <p>Content creation</p>
+                            </entry>
+                            <entry>
+                                <p>Automation and programming</p>
+                            </entry>
+                            <entry>
+                                <p>Screen design</p>
+                            </entry>
+                            <entry>
+                                <p>Web monitoring</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Country specific requirements</p>
+                            </entry>
+                            <entry/>
+                            <entry>
+                                <p>Content presentation</p>
+                            </entry>
+                            <entry>
+                                <p>Tools for creating content</p>
+                            </entry>
+                            <entry/>
+                            <entry>
+                                <p>Quality control for delivery</p>
+                            </entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Products and terminologies</p>
+                            </entry>
+                            <entry/>
+                            <entry>
+                                <p>Methods</p>
+                            </entry>
+                            <entry>
+                                <p>Integration of content</p>
+                            </entry>
+                            <entry/>
+                            <entry>
+                                <p>Archiving</p>
+                            </entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Media</p>
+                            </entry>
+                            <entry/>
+                            <entry>
+                                <p>Information flow</p>
+                            </entry>
+                            <entry>
+                                <p>Quality assurance for content</p>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>
+                                <p>Result of observation</p>
+                            </entry>
+                            <entry/>
+                            <entry>
+                                <p>Localization</p>
+                            </entry>
+                            <entry>
+                                <p>Arranging localization and translation</p>
+                            </entry>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </body></topic></dita>
