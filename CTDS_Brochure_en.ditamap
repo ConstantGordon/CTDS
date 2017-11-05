@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Brochure, 2017-11-03</title>
+ <title>Brochure, 2017-11-05</title>
  <topicref href="English/Topics/Opening.dita"/>
  <topicref href="English/Topics/Trainings.dita">
   <topicref href="English/Topics/ContentStrategy.dita"/>
@@ -23,6 +23,7 @@
  </topicref>
  <topicref href="English/Topics/Appendix.dita">
   <topicref href="English/Topics/Approach_en.dita"/>
+  <topicref href="English/Topics/SpecificationManagement.dita"/>
   <topicref href="English/Topics/InformationProductsDevelopmentCompetencesModel.dita"/>
   <topicref href="English/Topics/LanguageProficiency.dita"/>
   <topicref href="English/Topics/Experience_en.dita"/>
