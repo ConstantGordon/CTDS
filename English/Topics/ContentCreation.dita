@@ -7,9 +7,7 @@
             <p id="WorkshopContent">The workflow for document creation, information gathering and
                                 assembly, revising and managing the documentation projects will be
                                 discussed aiming to establish (or simplify!) a workflow and the
-                                skillsets required in each part. <xref
-                                        href="SpecificationManagement.dita" format="xml">Product
-                                        spefication</xref> can be an important part in the workshop. </p>
+                                skillsets required in each part.</p>
                         <p>During the workshop we will use the organization maturity model</p>
                         <p
                                 conref="Modellen.dita#topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4/organization_maturity"/>
