@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"><concept id="id-68b8c08b-1a46-4e47-c6fa-35393f224e2b"><title id="id-74260d1e-0571-4c92-d732-5e73580366db">Het technische documentatie proces, een bedijf
-        binnen een bedrijf</title><conbody id="id-1f1f6ca5-ba6c-488f-8876-75023effad57"><p id="id-de5891f3-cb64-492c-d613-a555b381bad1">Documentatie maken en beheren kan gezien worden als
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"><concept id="id-68b8c08b-1a46-4e47-c6fa-35393f224e2b"><title id="id-74260d1e-0571-4c92-d732-5e73580366db">Het organisatie volwassenheids model</title><conbody id="id-1f1f6ca5-ba6c-488f-8876-75023effad57"><p id="id-de5891f3-cb64-492c-d613-a555b381bad1">Documentatie maken en beheren kan gezien worden als
             een mini productiebedrijf binnen uw bedrijf. Dit mini bedrijf bevat alle kenmerken van
             een normaal productiebedrijf.</p><fig id="id-87690dba-fd02-4629-86d6-227a332f7656">
             <title id="id-d730fd8e-a5f3-4730-cadd-b290500af6f7"/>
             <desc id="id-a2466add-b091-465f-e692-4eb7a0b9a1c2"/>
             <image href="../../Figures/TheFactoryFull.jpg"
-                id="id-9849d0fd-1bc4-417e-8ebe-7f968f362b64"/>
+                id="id-9849d0fd-1bc4-417e-8ebe-7f968f362b64" scale="50"/>
         </fig><table frame="all" id="id-9501c92a-052e-4133-8a03-4afc2fcd596f"><tgroup cols="3" id="id-66830fce-e512-41f5-e8f0-06b68a2f7c0e">
                 <colspec colname="column-0" colnum="1" colwidth="1*" colsep="1" rowsep="1"
                     id="id-d9dc0e2a-594f-4ed4-f8b8-7959fb1a47b3"/>
@@ -32,20 +31,31 @@
                             <ul id="id-bdb0576a-2d1a-4457-f1c3-8dc60529ad89">
                                 <li id="id-1180bb70-8090-4a9c-dd1e-8544df31dbb8">
                                     <p id="id-0db7cd3e-a595-4ecf-908c-dcd3e0535abb">Contacten met de
-                                        "echte" sales en marketing, voor de afstemming van</p>
-                                    <p id="id-f555466c-2f46-4033-f5fe-1b2a462c5ef9">presentatie,</p>
-                                    <p id="id-7a0fc8f4-b866-4a0f-8868-756527f9654a">informatie
-                                        objecten,</p>
-                                    <p id="id-492b75a5-97f8-4a67-ecf0-628863769d65">kwaliteit en
-                                        standaardisatie wensen</p>
+                                        "echte" sales en <b>marketing</b>, voor de afstemming van<ul
+                                            id="ul_qqb_px2_5bb">
+                                            <li>
+                                                <p id="id-f555466c-2f46-4033-f5fe-1b2a462c5ef9"
+                                                  >presentatie,</p>
+                                            </li>
+                                            <li>
+                                                <p id="id-7a0fc8f4-b866-4a0f-8868-756527f9654a"
+                                                  >informatie objecten,</p>
+                                            </li>
+                                            <li>
+                                                <p id="id-492b75a5-97f8-4a67-ecf0-628863769d65"
+                                                  >kwaliteit en standaardisatie wensen</p>
+                                            </li>
+                                        </ul></p>
                                 </li>
                                 <li id="id-65258deb-817f-415f-8d34-47fb7f937903">
                                     <p id="id-4e0376a3-912d-4e4e-97db-373f6475d0ad">Contacten met de
-                                        juristen om aan de juiste wettelijke eisen te voldoen</p>
+                                            <b>juristen</b> om aan de juiste wettelijke eisen te
+                                        voldoen</p>
                                 </li>
                                 <li id="id-07fae5d3-bcbf-42a8-ba9c-20311e8ba272">
                                     <p id="id-269427ae-ec8b-4911-a49f-1856a9259483">Contact met de
-                                        projecten in het bedrijf, capaciteit afstemming</p>
+                                            <b>product ontwikkel</b> projecten in het bedrijf,
+                                        capaciteit afstemming</p>
                                 </li>
                             </ul>
                         </entry>
@@ -69,6 +79,11 @@
                                 <li>
                                     <p><b>Shop floor control</b> of project management, eventueel
                                         vertalingen management</p>
+                                </li>
+                                <li>
+                                    <p><b>Specificatie beheer</b> kan speciale aandacht nodig hebben
+                                        omdat het product ontwikkeling, product en process kwaliteit
+                                        beheer en marketing verbindt.</p>
                                 </li>
                                 <li>
                                     <p><b>Tekst creatie</b></p>

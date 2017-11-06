@@ -5,7 +5,7 @@
                 a regular production company. Next to the product flow from input material to sales
                 ready product there is an information stream that makes sure the end result is
                 according to specifications.</p>
-            <image href="../../Figures/TheFactoryFull.jpg" id="image_rj5_x1f_21b" scale="91"/>
+            <image href="../../Figures/TheFactoryFull.jpg" id="image_rj5_x1f_21b" scale="50"/>
             <table id="table_wbw_2tt_h1b">
                 <title>The technical documentation company</title>
                 <tgroup cols="3">
@@ -30,8 +30,8 @@
                             <entry>
                                 <ul id="ul_ztx_gtt_h1b">
                                     <li>
-                                        <p>Contact with the "real" sales and marketing to align
-                                            requirements for</p>
+                                        <p>Contact with the "real" sales and <b>marketing</b> to
+                                            align requirements for</p>
                                         <ul id="ul_a5x_gtt_h1b">
                                             <li>
                                                 <p>Presentation</p>
@@ -45,12 +45,12 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <p>Contact with the lawyers to meet the appropriate legal
-                                            requirements</p>
+                                        <p>Contact with the <b>lawyers</b> to meet the appropriate
+                                            legal requirements</p>
                                     </li>
                                     <li>
-                                        <p>Contact with the projects within the company, capacity
-                                            alignment</p>
+                                        <p>Contact with the <b>development</b> projects within the
+                                            company, capacity alignment</p>
                                     </li>
                                 </ul>
                             </entry>
