@@ -6,7 +6,11 @@
                             <li>
                                 <p>DITA Europe (CIDM), explaining how NXP created an internal
                                     support website using the DITA concept without DITA
-                                    technology.</p>
+                                        technology.<ul id="ul_wrd_lwj_5bb">
+                                        <li>
+                                            <p>Together with John Walker.</p>
+                                        </li>
+                                    </ul></p>
                             </li>
                         </ul>
                     </li>
@@ -26,10 +30,22 @@
                             <li>
                                 <p>Acrolinx WebConference, explaining why NXP choose for Acrolinx,
                                     how Acrolinx is benefitial to the authoring community and how
-                                    much work it is to maintain the functionality.</p>
+                                    much work it is to maintain the functionality.<ul
+                                        id="ul_svc_kwj_5bb">
+                                        <li>
+                                            <p>Together with Jolanda Rouwendal.</p>
+                                        </li>
+                                    </ul></p>
                             </li>
-                            <li>TCWorld, explaining how NXP uses DITA as a content transport vehicle
-                                and as an authoring technology in a decentralized department.</li>
+                            <li>
+                                <p>TCWorld, explaining how NXP uses DITA as a content transport
+                                    vehicle and as an authoring technology in a decentralized
+                                        department.<ul id="ul_q4l_3wj_5bb">
+                                        <li>
+                                            <p>Together with Frank Ralf.</p>
+                                        </li>
+                                    </ul></p>
+                            </li>
                         </ul>
                     </li>
                     <li>
@@ -37,7 +53,11 @@
                         <ul id="ul_swm_1th_tbb">
                             <li>
                                 <p>CIDM USA, explaining the benefit of using DITA when 2 companies
-                                    merge.</p>
+                                        merge.<ul id="ul_wxq_tvj_5bb">
+                                        <li>
+                                            <p>Together with Seth Park.</p>
+                                        </li>
+                                    </ul></p>
                             </li>
                         </ul>
                     </li>

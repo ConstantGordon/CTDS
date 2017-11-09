@@ -3,7 +3,7 @@
             <image href="../../Figures/ModelGoal.jpg" id="image_qzn_dkq_kbb" scale="50"/>
             <p>In een ideale <i><b>efficiente</b></i> organisatie die <b><i>effective</i></b>
                 informatie levert aan gebruikers zul je de deze modellen herkennen:</p>
-            <table frame="all" rowsep="1" colsep="1" id="table_nnn_hkq_kbb">
+            <table id="table_nnn_hkq_kbb">
                 <title/>
                 <tgroup cols="3">
                     <colspec colname="c1" colnum="1"/>

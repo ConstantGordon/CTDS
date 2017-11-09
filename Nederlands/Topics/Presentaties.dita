@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4">
+        <title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">Presentaties</title>
+        <shortdesc>Op meerdere conferenties is gepresenteerd over de ervaringen binnen de technische
+            documentatie:</shortdesc>
+        <prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a">
+            <author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author>
+            <critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3">
+                <created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c"/>
+                <revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8"/>
+            </critdates>
+            <permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699"/>
+            <metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3">
+                <category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category>
+            </metadata>
+        </prolog>
+        <body>
+            <ul id="ul_dsx_xjj_5bb">
+                <li>
+                    <p>2011<ul id="ul_fq4_1kj_5bb">
+                            <li>
+                                <p>DITA Europe (CIDM), uitleg hoe NXP een interne support website
+                                    gemaakt heeft gebruik makend van de DITA concepten zonder DITA
+                                        technologie.<ul id="ul_obq_nwj_5bb">
+                                        <li>
+                                            <p>Samen met John Walker.</p>
+                                        </li>
+                                    </ul></p>
+                            </li>
+                        </ul></p>
+                </li>
+                <li>
+                    <p>2014<ul id="ul_arb_ckj_5bb">
+                            <li>
+                                <p>TCWorld, uitleg hoe NXP van een centrale documentie afdeling is
+                                    veranderd naar een sterk decentrale groep met een centrale
+                                    aansturing.</p>
+                            </li>
+                        </ul></p>
+                </li>
+                <li>
+                    <p>2015<ul id="ul_j12_ckj_5bb">
+                            <li>
+                                <p>Acrolinx webconference, uitleg hoe NXP gekozen heeft voor
+                                    Acrolinx, hoe Acrolinx de gebruikers ondersteund en het werk wat
+                                    nodig is om het gebruik te ondersteunen.<ul id="ul_zr3_5vj_5bb">
+                                        <li>
+                                            <p>Samen met Jolanda Rouwendal.</p>
+                                        </li>
+                                    </ul></p>
+                            </li>
+                            <li>
+                                <p>TCWorld, uitleg hoe NXP DITA als informatie transport vehicle
+                                    gebruikt en ook als editing software voor schrijvers in een
+                                    decentrale groep.<ul id="ul_oht_svj_5bb">
+                                        <li>
+                                            <p>Samen met Frank Ralf.</p>
+                                        </li>
+                                    </ul></p>
+                            </li>
+                        </ul></p>
+                </li>
+                <li>
+                    <p>2016<ul id="ul_ych_ckj_5bb">
+                            <li>
+                                <p>CIDM USA, uitleg hoe DITA de merger van 2 bedrijven heeft
+                                        ondersteund.<ul id="ul_wxq_tvj_5bb">
+                                        <li>
+                                            <p>Samen met Seth Park.</p>
+                                        </li>
+                                    </ul></p>
+                            </li>
+                        </ul></p>
+                </li>
+            </ul>
+        </body>
+    </topic>
+</dita>
