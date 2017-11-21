@@ -4,7 +4,8 @@
                 requires the right skills and the right environment. </p>
             <p>With a selection of workshops and advisory tracks, an optimum solution can be
                 arranged to match skills, environment and requirements.</p>
-            <image href="../../Figures/TechDocFlow.jpg" id="image_cvb_tb2_5bb" scale="50"/>
+            <image href="../../Figures/TheFactoryTrainingsUpdate.jpg" id="image_n1g_tc4_h1b"
+                scale="50"/>
             <table id="table_vfs_vsn_h1b">
                 <tgroup cols="2">
                     <colspec colname="c1" colnum="1" colwidth="1*"/>
@@ -71,8 +72,6 @@
                     </tbody>
                 </tgroup>
             </table>
-            <image href="../../Figures/TheFactoryTrainingsUpdate.jpg" id="image_n1g_tc4_h1b"
-                scale="50"/>
             <table id="table_mbl_214_h1b">
                 <tgroup cols="2">
                     <colspec colname="c1" colnum="1" colwidth="1*"/>

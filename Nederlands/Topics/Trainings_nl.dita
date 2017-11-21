@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">Workshops and advies trajecten</title><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog><body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6">
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385">Workshops en advies trajecten</title><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" /><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" /><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog><body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6">
+            <image href="../../Figures/TechDocFlowLove-doc.jpg" scale="50" id="image_z4p_ld1_ybb"/>
             <p>Het creeren van <b><i>effectieve</i></b> documentatie op een <b><i>efficiente</i></b>
                 manier vergt de juiste skills en omgeving. </p>
-            <image href="../../Figures/TechDocFlow.jpg" scale="50" id="image_qcn_xh2_5bb"/>
             <p>Een selectie van workshops en advies trajecten helpen om skills, omgeving en
                 benodigdheden op elkaar af te stemmen.</p>
+            <image href="../../Figures/TheFactoryTrainingsUpdate.jpg" id="image_gfx_1mq_kbb"
+                scale="50"/>
             <table id="table_vfs_vsn_h1b">
                 <tgroup cols="2">
                     <colspec colname="c1" colnum="1" colwidth="1*" colsep="1" rowsep="1"/>
@@ -70,8 +72,6 @@
                     </tbody>
                 </tgroup>
             </table>
-            <image href="../../Figures/TheFactoryTrainingsUpdate.jpg" id="image_gfx_1mq_kbb"
-                scale="50"/>
             <table id="id-b1b89443-9297-4e2d-aed2-4f513ec15b3b">
                 <tgroup cols="2" id="id-ae080d4e-86c1-4f24-cbd2-2dc53c931510">
                     <colspec colname="column-0" colnum="1" colwidth="1*" colsep="1" rowsep="1"
