@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4">
+        <title>Topics to be discussed during the training</title>
+        <prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a">
+            <author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author>
+            <critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3">
+                <created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" />
+                <revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" /></critdates>
+            <permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" />
+            <metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3">
+                <category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog>
+        <body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6">
+            
+            <table>
+                <tgroup cols="2">
+                    <tbody>
+                        <row>
+                            <entry valign="top">
+                                <p>The obvious<ul id="ul_jq5_wrl_5bb">
+                                        <li>
+                                            <p>House style</p>
+                                            <ul id="ul_mwf_3r3_kcb">
+                                                <li>
+                                                  <p>Looks</p>
+                                                </li>
+                                                <li>
+                                                  <p>Language</p>
+                                                </li>
+                                                <li>
+                                                  <p>Legal content</p>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p>Delivery channels</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                            <entry valign="top">
+                                <p>Terminology<ul id="ul_z3b_vr3_kcb">
+                                        <li>
+                                            <p>Words and terms</p>
+                                        </li>
+                                        <li>
+                                            <p>Symbols</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry valign="top">
+                                <p>Content strategy<ul id="ul_brp_lr3_kcb">
+                                        <li>
+                                            <p>Call for action:</p>
+                                            <ul id="ul_czh_nr3_kcb">
+                                                <li>
+                                                  <p>Who, where, when</p>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p>Content types</p>
+                                            <ul id="ul_jd4_pr3_kcb">
+                                                <li>
+                                                  <p>Task</p>
+                                                </li>
+                                                <li>
+                                                  <p>Concept</p>
+                                                </li>
+                                                <li>
+                                                  <p>Reference</p>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p>Specification / user manual</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                            <entry valign="top">
+                                <p>Work process<ul id="ul_ajb_vr3_kcb">
+                                        <li>
+                                            <p>Content definition</p>
+                                        </li>
+                                        <li>
+                                            <p>Sources of information </p>
+                                        </li>
+                                        <li>
+                                            <p>Quality assurance</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </body></topic></dita>

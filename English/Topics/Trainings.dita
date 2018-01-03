@@ -22,7 +22,7 @@
                     </thead>
                     <tbody>
                         <row>
-                            <entry>
+                            <entry valign="top">
                                 <p>Content strategy</p>
                             </entry>
                             <entry>
@@ -32,7 +32,7 @@
                             </entry>
                         </row>
                         <row>
-                            <entry>
+                            <entry valign="top">
                                 <p>House style</p>
                             </entry>
                             <entry>
@@ -42,7 +42,7 @@
                             </entry>
                         </row>
                         <row>
-                            <entry>
+                            <entry valign="top">
                                 <p>Quality management</p>
                             </entry>
                             <entry>
@@ -52,7 +52,7 @@
                             </entry>
                         </row>
                         <row>
-                            <entry>Terminology management</entry>
+                            <entry valign="top">Terminology management</entry>
                             <entry>
                                 <p
                                     conref="Terminology.dita#topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4/WorkshopContent"
@@ -60,7 +60,7 @@
                             </entry>
                         </row>
                         <row>
-                            <entry>
+                            <entry valign="top">
                                 <p>Document creation and maintenance</p>
                             </entry>
                             <entry>
