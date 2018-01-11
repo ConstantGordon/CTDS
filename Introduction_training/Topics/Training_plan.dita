@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
     <topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4">
-        <title>Topics to be discussed during the training</title>
+        <title>Topics handled during the training</title>
         <prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a">
             <author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author>
             <critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3">
@@ -11,7 +11,6 @@
             <metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3">
                 <category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog>
         <body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6">
-            
             <table>
                 <tgroup cols="2">
                     <tbody>
@@ -88,6 +87,28 @@
                                         </li>
                                         <li>
                                             <p>Quality assurance</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry valign="top">
+                                <p>Tools<ul id="ul_tqt_1mb_mcb">
+                                        <li>
+                                            <p>Editors</p>
+                                        </li>
+                                        <li>
+                                            <p>Content management</p>
+                                        </li>
+                                    </ul></p>
+                            </entry>
+                            <entry valign="top">
+                                <p>Technology<ul id="ul_bhr_hmb_mcb">
+                                        <li>
+                                            <p>XML</p>
+                                        </li>
+                                        <li>
+                                            <p>Information configuration</p>
                                         </li>
                                     </ul></p>
                             </entry>

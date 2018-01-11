@@ -2,5 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <topicref href="Introduction_training/Topics/Training_package.dita"/>
- <topicref href="Introduction_training/Topics/Training_plan.dita"/>
+ <topicref href="Introduction_training/Topics/Training_specifics.dita">
+  <topicref href="Introduction_training/Topics/Training_plan.dita"/>
+  <topicref href="Introduction_training/Topics/Training_time.dita"/>
+ </topicref>
 </map>

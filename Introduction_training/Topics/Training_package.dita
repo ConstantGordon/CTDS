@@ -12,14 +12,22 @@
             <metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3">
                 <category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog>
         <body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6">
-            <p
-                conref="../../English/Topics/Opening.dita#topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4/TheQuestions"/>
-            
+            <p id="TheQuestions">Do your <b>engineers</b> spend too much time on documentation and
+                specifications instead of developing? Do you want to become more efficient in you
+                content creation?<ul id="WhyImportant">
+                    <li>
+                        <p>Or worse, are your <b>customers</b> complaining about missing information
+                            or inconsistencies? </p>
+                        <p>Or even more worse, do they <b>not buy</b> because your information is
+                            difficult to comprehend?</p>
+                    </li>
+                </ul></p>
             <table>
                 <tgroup cols="1">
                     <tbody>
                         <row>
-                            <entry><p>Basics:<ul id="ul_jq5_wrl_5bb">
+                            <entry>
+                                <p>Basics:<ul id="ul_jq5_wrl_5bb">
                                         <li>
                                             <p> The specification <b>is</b> the product until you
                                                   <b>have</b> the product.</p>
@@ -28,19 +36,16 @@
                                             <p>The user manual <b>enables</b> to put the product to
                                                 work <b>as planned</b>. </p>
                                         </li>
-                                    </ul></p></entry>
+                                    </ul></p>
+                            </entry>
                         </row>
                     </tbody>
                 </tgroup>
             </table>
-            <p>The training takes 4 hours and can easily be fitted in one morning or afternoon
-                session. It is ideal to participate with your peers involved in the documentation
-                creation and maintenance.</p>
             <table id="table_gh5_l4c_kcb">
                 <tgroup cols="2">
                     <colspec colsep="1"/>
                     <tbody>
-                       
                         <row>
                             <entry valign="top">
                                 <p>During the training you will learn: <ul id="ul_k1y_n4c_kcb">
@@ -73,6 +78,10 @@
                                             <p>How to set your quality standards and measure against
                                                 it.</p>
                                         </li>
+                                        <li>
+                                            <p>How to <b>optimize</b> the effort needed for good
+                                                documentation.</p>
+                                        </li>
                                     </ul>
                                 </p>
                             </entry>
@@ -82,14 +91,17 @@
             </table>
             <p>The training is designed for:<ul id="ul_lqt_g4c_kcb">
                     <li>
-                        <p>Those involved in the documentation process, the responsible
-                            individuals</p>
-                    </li>
-                    <li>
                         <p>Development managers</p>
                     </li>
                     <li>
+                        <p>Quality managers</p>
+                    </li>
+                    <li>
                         <p>Marketing managers</p>
+                    </li>
+                    <li>
+                        <p>And all those involved in the documentation process, the responsible
+                            individuals.</p>
                     </li>
                 </ul></p>
         </body></topic></dita>
