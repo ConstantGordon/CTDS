@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
     <topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4">
-        <title>Training: introduction to the creation of technical documentation and product
+        <title>Mini workshop: introduction to technical documentation and product
             specifications</title>
         <prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a">
             <author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d">constant.gordon@gmail.com</author>
@@ -12,17 +12,7 @@
             <metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3">
                 <category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4">Information Object</category></metadata></prolog>
         <body id="id-53aeb3f2-d2b2-442e-9fd1-27f862d768a6">
-            <p id="TheQuestions">Do your <b>engineers</b> spend too much time on documentation and
-                specifications instead of developing? Do you want to become more efficient in you
-                content creation?<ul id="WhyImportant">
-                    <li>
-                        <p>Or worse, are your <b>customers</b> complaining about missing information
-                            or inconsistencies? </p>
-                        <p>Or even more worse, do they <b>not buy</b> because your information is
-                            difficult to comprehend?</p>
-                    </li>
-                </ul></p>
-            <table>
+            <table id="table_g3x_stc_5cb">
                 <tgroup cols="1">
                     <tbody>
                         <row>
@@ -42,45 +32,54 @@
                     </tbody>
                 </tgroup>
             </table>
+            <p id="TheQuestions">Creating this information is more than just writing. </p>
+            <p>Yet, often you hear that <b>engineers</b> spend to much time on documentation and
+                specifications instead of developing. <ul id="WhyImportant">
+                    <li>
+                        <p>Or worse, <b>customers</b> complaining about missing information or
+                            inconsistencies.</p>
+                    </li>
+                </ul></p>
+            <p>Many different competencies are required to create good product documentation. Do you
+                want to become more efficient in you content creation?</p>
             <table id="table_gh5_l4c_kcb">
                 <tgroup cols="2">
                     <colspec colsep="1"/>
                     <tbody>
                         <row>
                             <entry valign="top">
-                                <p>During the training you will learn: <ul id="ul_k1y_n4c_kcb">
+                                <p>During the workshop we will talk about all elements needed to
+                                    create product information that is <ul id="ul_dkl_5ss_5cb">
+                                        <li>
+                                            <p>Accurate</p>
+                                        </li>
+                                        <li>
+                                            <p>Consistent</p>
+                                        </li>
+                                        <li>
+                                            <p>Readable</p>
+                                        </li>
+                                        <li>
+                                            <p>To the point</p>
+                                        </li>
+                                    </ul> whilst matching the house style.</p>
+                            </entry>
+                            <entry valign="top">
+                                <p>After the training you know:<ul id="ul_k1y_n4c_kcb">
                                         <li>
                                             <p>What <b>customers</b> require in documentation.</p>
                                         </li>
                                         <li>
-                                            <p>What good documentation does <b>for you</b>.</p>
-                                        </li>
-                                        <li>
-                                            <p>What the key ingredients of good documentation
+                                            <p>What the <b>key ingredients</b> of good documentation
                                                 are.</p>
                                         </li>
                                         <li>
-                                            <p>How to organize and manage the creation process.</p>
-                                        </li>
-                                    </ul>
-                                </p>
-                            </entry>
-                            <entry valign="top">
-                                <p>After the training you know:<ul id="ul_hdq_44c_kcb">
-                                        <li>
-                                            <p>What makes good technical documentation.</p>
+                                            <p>How to set your <b>quality</b> standards and measure
+                                                against it.</p>
                                         </li>
                                         <li>
-                                            <p>How to organize the process to create that
-                                                documentation.</p>
-                                        </li>
-                                        <li>
-                                            <p>How to set your quality standards and measure against
-                                                it.</p>
-                                        </li>
-                                        <li>
-                                            <p>How to <b>optimize</b> the effort needed for good
-                                                documentation.</p>
+                                            <p>How to organize, optimize and manage the creation
+                                                process.</p>
                                         </li>
                                     </ul>
                                 </p>
@@ -89,19 +88,14 @@
                     </tbody>
                 </tgroup>
             </table>
-            <p>The training is designed for:<ul id="ul_lqt_g4c_kcb">
+            <p>The workshop is designed for:<ul id="ul_lqt_g4c_kcb">
                     <li>
-                        <p>Development managers</p>
+                        <p>Development, quality &amp; marketing managers</p>
                     </li>
                     <li>
-                        <p>Quality managers</p>
-                    </li>
-                    <li>
-                        <p>Marketing managers</p>
-                    </li>
-                    <li>
-                        <p>And all those involved in the documentation process, the responsible
-                            individuals.</p>
+                        <p>Anyone who thinks that a good technical writer is sufficient for creating
+                            good technical documentation (while it is a very good step towards that
+                            purpose).</p>
                     </li>
                 </ul></p>
         </body></topic></dita>
