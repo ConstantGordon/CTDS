@@ -1,0 +1,27 @@
+//List of files which are indexed.
+fl = new Array();
+fl["0"]= "English/Topics/AdvOrganization.html";
+fl["1"]= "English/Topics/AdvTechnology.html";
+fl["2"]= "English/Topics/Appendix.html";
+fl["3"]= "English/Topics/Approach_en.html";
+fl["4"]= "English/Topics/Background.html";
+fl["5"]= "English/Topics/CG_GettingReady.html";
+fl["6"]= "English/Topics/CG_Processes.html";
+fl["7"]= "English/Topics/Capdoi_overview_en.html";
+fl["8"]= "English/Topics/ConstantGordon_en.html";
+fl["9"]= "English/Topics/ContentCreation.html";
+fl["10"]= "English/Topics/ContentStrategy.html";
+fl["11"]= "English/Topics/Experience_en.html";
+fl["12"]= "English/Topics/InformationProductsDevelopmentCompetencesModel.html";
+fl["13"]= "English/Topics/LanguageProficiency.html";
+fl["14"]= "English/Topics/Modellen.html";
+fl["15"]= "English/Topics/Opening.html";
+fl["16"]= "English/Topics/Presentations.html";
+fl["17"]= "English/Topics/QualityManagement.html";
+fl["18"]= "English/Topics/SpecificationManagement.html";
+fl["19"]= "English/Topics/Styleguide.html";
+fl["20"]= "English/Topics/Terminology.html";
+fl["21"]= "English/Topics/Trainings.html";
+fl["22"]= "English/Topics/VisionMission_en.html";
+fl["23"]= "English/Topics/YourProblem_en.html";
+var doStem = false;searchLoaded = true;

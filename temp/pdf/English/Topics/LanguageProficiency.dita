@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Constant\Documents\GitHub\Content\CTDS\temp\pdf\English\Topics?><?workdir-uri file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/temp/pdf/English/Topics/?><?path2project ..\..\?><?path2project-uri ../../?><?doctype-public -//OASIS//DTD DITA Composite//EN?><?doctype-system ditabase.dtd?><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3" xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="dita:1;1:117"><topic id="topic_81ab0fa4-b481-489e-95d6-3bfa5a7b15c4" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="topic:1;1:172"><title id="id-f851a81e-41d2-429a-dcd6-336b71d0d385" class="- topic/title " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="title:1;1:224">Language proficiency</title><prolog id="id-64cb09d0-3c63-4ed6-f6ac-43ded894136a" class="- topic/prolog " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="prolog:1;1:305"><author id="id-57b99c03-cdec-40a7-b542-d82f28dc731d" class="- topic/author " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="author:1;1:358">constant.gordon@gmail.com</author><critdates id="id-7277d960-25cf-49c2-96dd-436136d78bb3" class="- topic/critdates " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="critdates:1;1:448"><created date="2017-01-09" id="id-7d261b76-15cf-491d-9f93-b9be2813a53c" class="- topic/created " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="created:1;1:522"/><revised modified="2017-04-12" id="id-12402f13-6070-4c98-ffd9-73a444f95ba8" class="- topic/revised " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="revised:1;1:600"/></critdates><permissions view="" id="id-ff504ba5-6202-4fdd-ac1d-34bd0f402699" class="- topic/permissions " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="permissions:1;1:680"/><metadata id="id-59e96303-4a66-4edb-aa51-642bfa43a5a3" class="- topic/metadata " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="metadata:1;1:735"><category id="id-aa3980d4-dd07-46c2-eee7-1e6d79f11cc4" class="- topic/category " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="category:1;1:790">Information Object</category></metadata></prolog>
+        <body class="- topic/body " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="body:1;2:15">
+            <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="p:1;3:16">In general, proficiency level B1 is the best proficiency target for technical
+                    documentation.<ul id="ul_scp_3dl_2bb" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="ul:1;4:59">
+                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:1;5:25">
+                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="p:2;6:28">Some of the intended readers may have a different mother tongue in which
+                            case B1 is the most likely proficience level.</p>
+                    </li>
+                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:2;9:25">
+                        <p class="- topic/p " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="p:3;10:28">Readers with proficiency levels up to C2 indicate that the readability is
+                            better which results in faster reading.</p>
+                    </li>
+                </ul></p>
+            <table id="table_rlr_qcl_2bb" class="- topic/table " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="table:1;14:43">
+                <title class="- topic/title " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="title:2;15:24">Language proficiency grouping</title>
+                <tgroup cols="5" class="- topic/tgroup " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="tgroup:1;16:34">
+                    <colspec colnum="1" colname="col1" colwidth="5%" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="colspec:1;17:71"/>
+                    <colspec colnum="2" colname="col2" colwidth="15%" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="colspec:2;18:72"/>
+                    <colspec colnum="3" colname="col3" colwidth="5%" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="colspec:3;19:71"/>
+                    <colspec colnum="4" colname="col4" colwidth="15%" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="colspec:4;20:72"/>
+                    <colspec colnum="5" colname="col5" colwidth="60%" rowheader="headers" class="- topic/colspec " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="colspec:5;21:72"/>
+                    <thead class="- topic/thead " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="thead:1;22:28"><row class="- topic/row " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="row:1;22:33">
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:1;23:36" colname="col1" dita-ot:x="1" dita-ot:y="1">Level group</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:2;24:36" colname="col2" dita-ot:x="2" dita-ot:y="1">Level group name</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:3;25:36" colname="col3" dita-ot:x="3" dita-ot:y="1">Level</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:4;26:36" colname="col4" dita-ot:x="4" dita-ot:y="1">Level name</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:5;27:36" colname="col5" dita-ot:x="5" dita-ot:y="1">Description</entry>
+                        </row></thead><tbody class="- topic/tbody " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="tbody:1;28:46">
+                        
+                        <row class="- topic/row " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="row:2;30:30">
+                            <entry morerows="1" class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:6;31:49" colname="col1" dita-ot:x="1" dita-ot:y="2">A</entry>
+                            <entry morerows="1" class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:7;32:49" colname="col2" dita-ot:x="2" dita-ot:y="2">Basic user</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:8;33:36" colname="col3" dita-ot:x="3" dita-ot:y="2">A1</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:9;34:36" colname="col4" dita-ot:x="4" dita-ot:y="2">Breakthrough or beginner</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:10;35:36" colname="col5" dita-ot:x="5" dita-ot:y="2">
+                                <ul id="ul_slr_qcl_2bb" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="ul:2;36:57">
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:3;37:41">Can understand and use familiar everyday expressions and
+                                        very basic phrases aimed at the satisfaction of needs of a
+                                        concrete type.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:4;40:41">Can introduce themselves and others and can ask and answer
+                                        questions about personal details such as where he/she lives,
+                                        people they know and things they have.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:5;43:41">Can interact in a simple way provided the other person talks
+                                        slowly and clearly and is prepared to help.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="row:3;48:30">
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:11;49:36" colname="col3" dita-ot:x="3" dita-ot:y="3">A2</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:12;50:36" colname="col4" dita-ot:x="4" dita-ot:y="3">Waystage or elementary</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:13;51:36" colname="col5" dita-ot:x="5" dita-ot:y="3">
+                                <ul id="ul_tlr_qcl_2bb" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="ul:3;52:57">
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:6;53:41">Can understand sentences and frequently used expressions
+                                        related to areas of most immediate relevance (e.g. very
+                                        basic personal and family information, shopping, local
+                                        geography, employment).</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:7;57:41">Can communicate in simple and routine tasks requiring a
+                                        simple and direct exchange of information on familiar and
+                                        routine matters.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:8;60:41">Can describe in simple terms aspects of their background,
+                                        immediate environment and matters in areas of immediate
+                                        need.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="row:4;66:30">
+                            <entry morerows="1" class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:14;67:49" colname="col1" dita-ot:x="1" dita-ot:y="4">B</entry>
+                            <entry morerows="1" class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:15;68:49" colname="col2" dita-ot:x="2" dita-ot:y="4">Independent user</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:16;69:36" colname="col3" dita-ot:x="3" dita-ot:y="4">B1</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:17;70:36" colname="col4" dita-ot:x="4" dita-ot:y="4">Threshold or intermediate</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:18;71:36" colname="col5" dita-ot:x="5" dita-ot:y="4">
+                                <ul id="ul_ulr_qcl_2bb" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="ul:4;72:57">
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:9;73:41">Can understand the main points of clear standard input on
+                                        familiar matters regularly encountered in work, school,
+                                        leisure, etc.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:10;76:41">Can deal with most situations likely to arise while
+                                        travelling in an area where the language is spoken.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:11;78:41">Can produce simple connected text on topics that are
+                                        familiar or of personal interest.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:12;80:41">Can describe experiences and events, dreams, hopes and
+                                        ambitions and briefly give reasons and explanations for
+                                        opinions and plans.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="row:5;86:30">
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:19;87:36" colname="col3" dita-ot:x="3" dita-ot:y="5">B2</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:20;88:36" colname="col4" dita-ot:x="4" dita-ot:y="5">Vantage or upper intermediate</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:21;89:36" colname="col5" dita-ot:x="5" dita-ot:y="5">
+                                <ul id="ul_vlr_qcl_2bb" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="ul:5;90:57">
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:13;91:41">Can understand the main ideas of complex text on both
+                                        concrete and abstract topics, including technical
+                                        discussions in their field of specialization.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:14;94:41">Can interact with a degree of fluency and spontaneity that
+                                        makes regular interaction with native speakers quite
+                                        possible without strain for either party.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:15;97:41">Can produce clear, detailed text on a wide range of subjects
+                                        and explain a viewpoint on a topical issue giving the
+                                        advantages and disadvantages of various options.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="row:6;103:30">
+                            <entry morerows="1" class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:22;104:49" colname="col1" dita-ot:x="1" dita-ot:y="6">C</entry>
+                            <entry morerows="1" class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:23;105:49" colname="col2" dita-ot:x="2" dita-ot:y="6">Proficient user</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:24;106:36" colname="col3" dita-ot:x="3" dita-ot:y="6">C1</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:25;107:36" colname="col4" dita-ot:x="4" dita-ot:y="6">Effective operational proficiency or advanced</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:26;108:36" colname="col5" dita-ot:x="5" dita-ot:y="6">
+                                <ul id="ul_wlr_qcl_2bb" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="ul:6;109:57">
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:16;110:41">Can understand a wide range of demanding, longer clauses,
+                                        and recognize implicit meaning.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:17;112:41">Can express ideas fluently and spontaneously without much
+                                        obvious searching for expressions.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:18;114:41">Can use language flexibly and effectively for social,
+                                        academic and professional purposes.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:19;116:41">Can produce clear, well-structured, detailed text on complex
+                                        subjects, showing controlled use of organizational patterns,
+                                        connectors and cohesive devices.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row class="- topic/row " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="row:7;122:30">
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:27;123:36" colname="col3" dita-ot:x="3" dita-ot:y="7">C2</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:28;124:36" colname="col4" dita-ot:x="4" dita-ot:y="7">Mastery or proficiency</entry>
+                            <entry class="- topic/entry " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="entry:29;125:36" colname="col5" dita-ot:x="5" dita-ot:y="7">
+                                <ul id="ul_xlr_qcl_2bb" class="- topic/ul " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="ul:7;126:57">
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:20;127:41">Can understand with ease virtually everything heard or
+                                        read.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:21;129:41">Can summarize information from different spoken and written
+                                        sources, reconstructing arguments and accounts in a coherent
+                                        presentation.</li>
+                                    <li class="- topic/li " xtrf="file:/C:/Users/Constant/Documents/GitHub/Content/CTDS/English/Topics/LanguageProficiency.dita" xtrc="li:22;132:41">Can express themselves spontaneously, very fluently and
+                                        precisely, differentiating finer shades of meaning even in
+                                        the most complex situations.</li>
+                                </ul>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </body></topic></dita>
